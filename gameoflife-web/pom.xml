@@ -49,8 +49,8 @@
                     <archive>
                         <manifestEntries>
                             <Specification-Title>${project.name}</Specification-Title>
-                            <Specification-Version>${project.version}</Specification-Version>
-                            <Implementation-Version>${build.number}</Implementation-Version>
+                            <Specification-Version>123</Specification-Version>
+                            
                         </manifestEntries>
                     </archive>
                 </configuration>
